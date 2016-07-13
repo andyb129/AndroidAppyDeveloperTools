@@ -1,4 +1,4 @@
-# AndroidStudioPluginsNPlay
+# AppyDeveloperTools
 
 <img src="images/android_tools.png" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/google_play_logo.png" height="100">
 
