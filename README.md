@@ -15,7 +15,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Libraries for developers** *(open source libs + examples)* | https://play.google.com/store/apps/details?id=com.desarrollodroide.repos |
 | **AIDE** *(IDE app for developing on mobile/tablet)* | https://play.google.com/store/apps/details?id=com.aide.ui |  
 | **Port droid** *(Network tools)* | https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid |
-| **Fake GPS* | https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps |
+| **Fake GPS** | https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps |
 | **Good intentions** *(generate custom intents)* | https://play.google.com/store/apps/details?id=com.luboganev.goodintentions |
 | **Rest Client for Android** | https://play.google.com/store/apps/details?id=com.sourcestream.android.restclient |
  
@@ -31,7 +31,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Real Colorado** *(palette app)* | https://play.google.com/store/apps/details?id=com.macaw | 
 | **Pixel ruler** *(on screen measurement)* | https://play.google.com/store/apps/details?id=com.bidyut.app.pixelruler |
 | **Pixolor** *(floating colour picker overlay)* | https://play.google.com/store/apps/details?id=com.embermitre.pixolor.app | 
-| **Material Design colour palette* | https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette | 
+| **Material Design colour palette** | https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette | 
 
 
 ### Play Store App Listing
