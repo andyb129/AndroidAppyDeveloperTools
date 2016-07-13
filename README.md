@@ -44,6 +44,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 
 ### Miscellaneous
 | Description | Link |
+| --- | --- |
 | **MyFtp server** | https://play.google.com/store/apps/details?id=com.droidcreation.myftpserver |
 | **Wake lock detector** | https://play.google.com/store/apps/details?id=com.uzumapps.wakelockdetector |
 | **AppExplore** *(explore manifest, resources & packages)* | https://play.google.com/store/apps/details?id=com.sonyericsson.androidapp.AppExplore |
