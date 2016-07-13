@@ -2,7 +2,7 @@
 
 <img src="images/android_tools.png" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/google_play_logo.png" height="100">
 
-A list of cool/useful Apps too help Android Developers (linked from my blog post <a href="http://barbuzz.co.uk/2016/07/13/appy-developer-tools/">here</a>)
+A list of cool/useful Apps to help Android Developers (linked from my blog post <a href="http://barbuzz.co.uk/2016/07/13/appy-developer-tools/">here</a>)
 
 ### Dev
 | Description | Link |
@@ -15,6 +15,8 @@ A list of cool/useful Apps too help Android Developers (linked from my blog post
 | *Libraries for developers (open source libs + examples)* | https://play.google.com/store/apps/details?id=com.desarrollodroide.repos |
 | *AIDE (IDE app for developing on mobile/tablet)* | https://play.google.com/store/apps/details?id=com.aide.ui |  
 | *Port droid (Network tools)* | https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid |
+| *Fake GPS* | https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps |
+
 
 ### Design
 | Description | Link |
