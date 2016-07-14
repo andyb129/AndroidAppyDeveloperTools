@@ -26,7 +26,6 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Keyline pushing** *(screen layout grid overlay)* | https://play.google.com/store/apps/details?id=com.faizmalkani.keylines | 
 | **Material cue** *(screen layout grid overlay)* | https://play.google.com/store/apps/details?id=com.actinarium.materialcue | 
 | **Gridwichterle** *(screen layout grid overlay)* | https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle |
-| **Screen framing** *(2d/3d)* | https://play.google.com/store/apps/details?id=de.toastcode.screener | 
 | **Screen joining** | https://play.google.com/store/apps/details?id=com.afollestad.photoaffix | 
 | **Real Colorado** *(palette app)* | https://play.google.com/store/apps/details?id=com.macaw | 
 | **Pixel ruler** *(on screen measurement)* | https://play.google.com/store/apps/details?id=com.bidyut.app.pixelruler |
