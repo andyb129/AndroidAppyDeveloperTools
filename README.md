@@ -2,7 +2,7 @@
 
 <img src="images/android_tools.png" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/google_play_logo.png" height="100">
 
-A list of cool/useful Apps to help Android Developers (linked from my blog post <a href="http://barbuzz.co.uk/2016/07/13/appy-developer-tools/">here</a>)
+A list of cool/useful Apps to help Android Developers (linked from my blog post <a href="http://barbuzz.co.uk/2016/07/14/appy-developer-tools/">here</a>)
 
 ### Dev
 | Description | Link |
