@@ -14,7 +14,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Kinetic** *(generate java code from motion)* | https://play.google.com/store/apps/details?id=com.actinarium.kinetic | 
 | **Libraries for developers** *(open source libs + examples)* | https://play.google.com/store/apps/details?id=com.desarrollodroide.repos |
 | **AIDE** *(IDE app for developing on mobile/tablet)* | https://play.google.com/store/apps/details?id=com.aide.ui | 
-| **Codeboard** ** *(keyboard for coding)* | https://play.google.com/store/apps/details?id=com.gazlaws.codeboard | 
+| **Codeboard** *(keyboard for coding)* | https://play.google.com/store/apps/details?id=com.gazlaws.codeboard | 
 | **Port droid** *(Network tools)* | https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid |
 | **Fake GPS** | https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps |
 | **Good intentions** *(generate custom intents)* | https://play.google.com/store/apps/details?id=com.luboganev.goodintentions |
@@ -22,8 +22,8 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Rx Marbles** *(RxJava operation diagrams)* | https://play.google.com/store/apps/details?id=com.moonfleet.rxmarbles |
 | **JSON Genie** *(JSON file editor)* | https://play.google.com/store/apps/details?id=com.tuyware.jsongenie |
 | **Intent Intercept** *(read intent data)*| https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept |
-| **Dex Explorer** ** *(read app dex/app files)* | https://play.google.com/store/apps/details?id=com.dexplorer |
-| **Dev Tiles** ** *(quick settings tiles for develper settings)* | https://github.com/mustafa01ali/Dev-Tiles |
+| **Dex Explorer** *(read app dex/app files)* | https://play.google.com/store/apps/details?id=com.dexplorer |
+| **Dev Tiles** *(quick settings tiles for develper settings)* | https://github.com/mustafa01ali/Dev-Tiles |
 
 ### Analytics
 | Description | Link |
