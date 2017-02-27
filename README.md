@@ -10,13 +10,10 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Device Stats** *(device dimensions + security info)* | https://play.google.com/store/apps/details?id=com.devicestats.android | 
 | **Dev drawer** *(Dev app list widget)* | https://play.google.com/store/apps/details?id=com.owentech.DevDrawer |
 | **Mat Log** *(log cat app)* | https://play.google.com/store/apps/details?id=com.pluscubed.matlog |
-| **Beacon Tools** *(register/test with Google)* | https://play.google.com/store/apps/details?id=com.google.android.apps.location.beacon.beacontools |
 | **Kinetic** *(generate java code from motion)* | https://play.google.com/store/apps/details?id=com.actinarium.kinetic | 
 | **Libraries for developers** *(open source libs + examples)* | https://play.google.com/store/apps/details?id=com.desarrollodroide.repos |
 | **AIDE** *(IDE app for developing on mobile/tablet)* | https://play.google.com/store/apps/details?id=com.aide.ui | 
 | **Codeboard** *(keyboard for coding)* | https://play.google.com/store/apps/details?id=com.gazlaws.codeboard | 
-| **Port droid** *(Network tools)* | https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid |
-| **Fake GPS** | https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps |
 | **Good intentions** *(generate custom intents)* | https://play.google.com/store/apps/details?id=com.luboganev.goodintentions |
 | **Rest Client for Android** | https://play.google.com/store/apps/details?id=com.sourcestream.android.restclient |
 | **Rx Marbles** *(RxJava operation diagrams)* | https://play.google.com/store/apps/details?id=com.moonfleet.rxmarbles |
@@ -24,6 +21,16 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Intent Intercept** *(read intent data)*| https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept |
 | **Dex Explorer** *(read app dex/app files)* | https://play.google.com/store/apps/details?id=com.dexplorer |
 | **Dev Tiles** *(quick settings tiles for develper settings)* | https://github.com/mustafa01ali/Dev-Tiles |
+
+### Testing
+| **Accessibility Scanner** *(Google app accessibility checker)* | https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor&hl=en_GB |
+| **Port droid** *(Network tools)* | https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid |
+| **Fake GPS** | https://play.google.com/store/apps/details?id=com.blogspot.newapphorizons.fakegps |
+| **Lockito** *(another gps spoofer)* | https://play.google.com/store/apps/details?id=fr.dvilleneuve.lockito&hl=en |
+| **Beacon Tools** *(register/test with Google)* | https://play.google.com/store/apps/details?id=com.google.android.apps.location.beacon.beacontools |
+| **Hosts Editor** *(edit device hosts file)* | https://play.google.com/store/apps/details?id=com.nilhcem.hostseditor&hl=en_GB |
+| **Fill RAM** *(simulate low RAM)* | https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt |
+| **Wake lock detector** | https://play.google.com/store/apps/details?id=com.uzumapps.wakelockdetector |
 
 ### Analytics
 | Description | Link |
@@ -60,9 +67,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | Description | Link |
 | --- | --- |
 | **MyFtp server** | https://play.google.com/store/apps/details?id=com.droidcreation.myftpserver |
-| **Wake lock detector** | https://play.google.com/store/apps/details?id=com.uzumapps.wakelockdetector |
 | **AppExplore** *(explore manifest, resources & packages)* | https://play.google.com/store/apps/details?id=com.sonyericsson.androidapp.AppExplore |
 | **IP Widget** *(display IP of device & other info)* | https://play.google.com/store/apps/details?id=de.dieterthiess.ipwidget&hl=en |
 | **Gif Me Five** *(useful for created animated gif's from videos)* | https://play.google.com/store/apps/details?id=fr.fmrbrothers&hl=en_GB |
-
 
