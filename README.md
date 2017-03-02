@@ -21,6 +21,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Intent Intercept** *(read intent data)*| https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept |
 | **Dex Explorer** *(read app dex/app files)* | https://play.google.com/store/apps/details?id=com.dexplorer |
 | **Dev Tiles** *(quick settings tiles for develper settings)* | https://github.com/mustafa01ali/Dev-Tiles |
+| **Activity Launch Modes** *(e.g. SingleInstance etc.)* | https://play.google.com/store/apps/details?id=com.novoda.demos.activitylaunchmode |
 
 ### Testing
 | Description | Link |
