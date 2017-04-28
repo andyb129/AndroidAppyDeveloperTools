@@ -74,5 +74,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **IP Widget** *(display IP of device & other info)* | https://play.google.com/store/apps/details?id=de.dieterthiess.ipwidget&hl=en |
 | **Gif Me Five** *(useful for created animated gif's from videos)* | https://play.google.com/store/apps/details?id=fr.fmrbrothers&hl=en_GB |
 | **Show Java** *(APK decompiler app)* | https://play.google.com/store/apps/details?id=com.njlabs.showjava |
+| **App Info Mini** *(Show foreground app stats in notification)* | https://play.google.com/store/apps/details?id=info.kfsoft.appinfo.mini&rdid=info.kfsoft.appinfo.mini |
+
 
 
