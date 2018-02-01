@@ -55,7 +55,6 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Material Design colour palette** | https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette | 
 | **Material Styler** *(material colour helper)* | https://play.google.com/store/apps/details?id=com.skcsllp.ac.materialstyler | 
 
-
 ### Play Store App Listing
 | Description | Link |
 | --- | --- |
@@ -66,6 +65,12 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Clean status bar** *(clean up screen shots)* | https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar |
 
 
+### Learning
+| Description | Link |
+| --- | --- |
+| **Kotlin Kōans** | https://play.google.com/store/apps/details?id=me.vickychijwani.kotlinkoans | 
+| **Enki: Learn better code, daily** | https://play.google.com/store/apps/details?id=com.enki.insights | 
+
 ### Miscellaneous
 | Description | Link |
 | --- | --- |
@@ -75,6 +80,8 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Gif Me Five** *(useful for created animated gif's from videos)* | https://play.google.com/store/apps/details?id=fr.fmrbrothers&hl=en_GB |
 | **Show Java** *(APK decompiler app)* | https://play.google.com/store/apps/details?id=com.njlabs.showjava |
 | **App Info Mini** *(Show foreground app stats in notification)* | https://play.google.com/store/apps/details?id=info.kfsoft.appinfo.mini&rdid=info.kfsoft.appinfo.mini |
+
+
 
 
 
