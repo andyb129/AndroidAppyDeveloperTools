@@ -22,6 +22,7 @@ A list of cool/useful Apps to help Android Developers (linked from my blog post 
 | **Dex Explorer** *(read app dex/app files)* | https://play.google.com/store/apps/details?id=com.dexplorer |
 | **Dev Tiles** *(quick settings tiles for develper settings)* | https://github.com/mustafa01ali/Dev-Tiles |
 | **Activity Launch Modes** *(e.g. SingleInstance etc.)* | https://play.google.com/store/apps/details?id=com.novoda.demos.activitylaunchmode |
+| **Dev Wigdet** *(widget to filter certain apps with uninstall link)* | https://play.google.com/store/apps/details?id=com.tasomaniac.devwidget&rdid=com.tasomaniac.devwidget |
 
 ### Testing
 | Description | Link |
